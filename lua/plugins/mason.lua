@@ -22,6 +22,7 @@ return {
     opts = {
       ensure_installed = {
         "stylua",
+        "cmakelint",
         -- add more arguments for adding more null-ls sources
       },
     },
