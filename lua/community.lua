@@ -10,6 +10,7 @@ return {
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.cpp" },
+  { import = "astrocommunity.pack.cs" },
   { import = "astrocommunity.colorscheme.nordic-nvim" },
   -- { import = "astrocommunity.colorscheme.monokai-pro-nvim" },
   { import = "astrocommunity.debugging.telescope-dap-nvim" },
